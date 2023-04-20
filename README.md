@@ -14,7 +14,7 @@ git clone https://github.com/aniruddhmistry/unpinning-ssl.git
 cd unpinning-ssl
 
 
-python patch.py <APK filename>
+python unpinning-ssl.py <APK filename>
 ```
 
 ## How it works
